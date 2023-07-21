@@ -7,5 +7,5 @@
 # Well, the next step is to standardize the dataset, because our dataset is not in the right scale, and if we do not standardize, our models will encounter an error
 # After standardization, we must create a new dataset and then train the models
 # We had made two lists named accuracy and method, now we will print them to show the models along with their accuracy values
-# We want PLT to make a 10 x 5 box and we want Bar Plot to show us the accuracy values   of all the models we used.
+# We use PLT to make a 10 x 5 box and Bar Plot to show us the accuracy values of all the models we used.
 # In the ROC chart, we examine the ratio of X axis and Y axis together
